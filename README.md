@@ -2,7 +2,7 @@ A_estrela-no-Gazebo
 
 Implementação do A* em um robô no Gazebo, fazendo sair de um labirinto
 
-Alunos
+Alunos:
 Vitor Alves Costa
 Christopher Elias de Souza
 
